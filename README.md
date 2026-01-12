@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🚀 Building scalable MERN stack applications<br>🧩 Developing role-based dashboards & secure REST APIs<br>☁️ Deploying projects on cloud platforms with CI/CD<br>👯 I’m looking to collaborate on<br>🤝 MERN Stack Projects<br>⚛️ React / Vite based Web Apps<br>📊 Data Analytics & Dashboards (Python / Power BI)<br>🤝 I’m looking for help with<br>🧠 System Design & Architecture<br>⚙️ Backend Performance Optimization<br>☁️ Production-level Cloud Deployments<br>🌱 I’m currently learning<br>📚 Advanced React Patterns<br>🛠️ Backend Optimization & Security<br>🐘 PostgreSQL & Database Design<br>☁️ Cloud-Native Development<br>💬 Ask me about<br>💻 MERN Stack | ⚛️ React.js | 🌐 Node.js & Express<br>🔐 JWT Auth & RBAC | 🗄️ MongoDB & SQL<br>📈 Python Data Analytics | 📊 Power BI<br>⚡ Fun fact<br>🔥 I love converting real-world problems into full-stack apps<br>⏱️ And I optimize code just to save milliseconds 😄
+Hi, I’m Manish Kumar, a MERN Stack Developer and MCA student from India.
+I build modern, responsive, and scalable web applications using React, Node.js, MongoDB, and Tailwind CSS. I love working on clean UI, smooth user experiences, and efficient backend logic. Always curious, always learning 🚀
 
 
 ## 🌐 Socials:
